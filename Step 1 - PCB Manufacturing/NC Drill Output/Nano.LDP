@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\Thirupathi Docs\PCB Design\Arduino Nano\Nano.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=nano-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=nano-slotholes.txt|DrillLayers=gtl,gbl

@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : ATMEGA328P-MUR.LibPkg
+
+Section : D:\Thirupathi Docs\PCB Design\Arduino Nano\Documentation\ATMEGA328P-MUR\ATMEGA328P-MUR.lia
+    Section : PCB Library - ATMEGA328P-MUR.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token ATMEGA328P-MUR On Line 225
+            Warning - 1 : Skipping Token attachedSymbol On Line 582
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - ATMEGA328P-MUR.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 131
+            Warning - 1 : Skipping Token layerContents On Line 172
+            Warning - 1 : Skipping Token layerContents On Line 213
+        EndSection
+
+        Section : Generating SCH Library - ATMEGA328P-MUR.SchLib
+        EndSection
+    EndSection
+EndSection

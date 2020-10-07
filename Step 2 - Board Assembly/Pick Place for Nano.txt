@@ -1,0 +1,46 @@
+Altium Designer Pick and Place Locations
+D:\Thirupathi Docs\PCB Design\Arduino Nano\Project Outputs for Arduino Nano\Pick Place\Pick Place for Nano.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       29-05-20
+Time:       19:04
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment              Layer    Footprint      Center-X(mm) Center-Y(mm) Rotation Description                                                                                                                             
+Y1         ABM7-16.000MHZ-D2Y-T TopLayer 16MHZ_CRYSTALL 28.4000mm    18.6000mm    180      "CRYSTAL 16.0000MHZ 18PF SMD"                                                                                                           
+VR1        CG0603MLC-05E        TopLayer R0603          6.9000mm     8.9500mm     90       "VARISTOR 0603"                                                                                                                         
+U2         ATMEGA328P-MUR       TopLayer ATMEGA328P-MUR 26.1000mm    12.6000mm    225      "ATMEL         ATMEGA328P-MUR             8 Bit Microcontroller, Low Power High Performance, ATmega, 20 MHz, 32 KB, 2 KB, 32 Pins, MLF" 
+U1         FT232RL-REEL         TopLayer USB_CONVERTER  12.8440mm    12.2750mm    90       "FTDI - FT232RL-REEL - Interface Bridges, USB to UART, 1.8 V, 5.25 V, SSOP, 28 Pins, -40 °C"                                            
+SW1        1825910-6            TopLayer SWITCH         36.0500mm    12.7500mm    180      "SWITCH TACTILE SPST-NO 0.05A 24V"                                                                                                      
+R7         SR0805JR-7W1KL       TopLayer R0805          27.0840mm    5.5000mm     180      "Surge Chip Resistor Automotive Grade Thick Film 0805 1kOhm 5% Paper T/R"                                                               
+R6         SR0805JR-7W1KL       TopLayer R0805          27.0160mm    7.8000mm     360      "Surge Chip Resistor Automotive Grade Thick Film 0805 1kOhm 5% Paper T/R"                                                               
+R5         SR0805JR-7W1KL       TopLayer R0805          44.8160mm    5.9000mm     360      "Surge Chip Resistor Automotive Grade Thick Film 0805 1kOhm 5% Paper T/R"                                                               
+R4         SR0805JR-7W1KL       TopLayer R0805          21.6160mm    9.6000mm     360      "Surge Chip Resistor Automotive Grade Thick Film 0805 1kOhm 5% Paper T/R"                                                               
+R3         SR0805JR-7W1KL       TopLayer R0805          40.7160mm    18.3000mm    360      "Surge Chip Resistor Automotive Grade Thick Film 0805 1kOhm 5% Paper T/R"                                                               
+R2         SR0805JR-7W1KL       TopLayer R0805          12.0840mm    19.1000mm    180      "Surge Chip Resistor Automotive Grade Thick Film 0805 1kOhm 5% Paper T/R"                                                               
+R1         SR0805JR-7W1KL       TopLayer R0805          7.1000mm     12.4160mm    90       "Surge Chip Resistor Automotive Grade Thick Film 0805 1kOhm 5% Paper T/R"                                                               
+LM1        LM1117IMPX-5.0/NOPB  TopLayer SOP4           43.4000mm    12.5750mm    90       "TEXAS INSTRUMENTS - LM1117IMPX-5.0/NOPB - LDO VOLTAGE REGULATOR, FIXED, 5V, 800mA, SOT-223-4, FULL REEL"                               
+LED4       LGL29K-G2J1-24-Z     TopLayer LED            41.8000mm    6.6000mm     90       "LED Uni-Color Green 572nm 2-Pin Chip 0603(1608Metric) T/R"                                                                             
+LED3       LGL29K-G2J1-24-Z     TopLayer LED            18.9000mm    8.2000mm     90       "LED Uni-Color Green 572nm 2-Pin Chip 0603(1608Metric) T/R"                                                                             
+LED2       LGL29K-G2J1-24-Z     TopLayer LED            8.3000mm     19.3000mm    360      "LED Uni-Color Green 572nm 2-Pin Chip 0603(1608Metric) T/R"                                                                             
+LED1       LGL29K-G2J1-24-Z     TopLayer LED            7.4000mm     16.1000mm    270      "LED Uni-Color Green 572nm 2-Pin Chip 0603(1608Metric) T/R"                                                                             
+J4         67997-106HLF         TopLayer HEADER_2*3     50.1700mm    13.0000mm    360      "CONN HEADER 6POS .100 STR 30AU"                                                                                                        
+J3         1734035-2            TopLayer USB            3.6375mm     12.1000mm    270      "TE CONNECTIVITY - 1734035-2 - USB Connector, Mini USB Type B, USB 2.0, Receptacle, 5 Positions, Surface Mount, Right Angle"            
+J2         0022032151           TopLayer HEADER1*15     29.9600mm    2.3500mm     270      "Conn Unshrouded Header HDR 15 POS 2.54mm Solder ST Thru-Hole KK® Bag"                                                                  
+J1         0022032151           TopLayer HEADER1*15     29.9200mm    22.5500mm    270      "Conn Unshrouded Header HDR 15 POS 2.54mm Solder ST Thru-Hole KK® Bag"                                                                  
+D1         MSS1P3L-M3/89A       TopLayer DIODE          51.9000mm    18.8808mm    270      "Schottky Diodes & Rectifiers 1.0 Amp 30 Volt"                                                                                          
+C11        CC0805JKX7R7BB105    TopLayer C0805          36.9000mm    6.3500mm     270      "Cap Ceramic 1uF 16V X7R 5% SMD 0805 125C Blister T/R"                                                                                  
+C10        CC0805JKX7R7BB105    TopLayer C0805          31.4000mm    10.9500mm    90       "Cap Ceramic 1uF 16V X7R 5% SMD 0805 125C Blister T/R"                                                                                  
+C9         CC0805KKX5R7BB475    TopLayer C0805          34.2000mm    6.3500mm     90       "CAP CER 4.7UF 16V X5R 0805"                                                                                                            
+C8         CC0805JKX7R7BB105    TopLayer C0805          39.5000mm    6.4500mm     270      "Cap Ceramic 1uF 16V X7R 5% SMD 0805 125C Blister T/R"                                                                                  
+C7         C2012X7R1H104K085AA  TopLayer C0805          18.7000mm    12.1500mm    90       "TDK - C2012X7R1H104K085AA - SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0805 [2012 Metric], ± 10%, X7R, C Series"                  
+C6         C2012X7R1H104K085AA  TopLayer C0805          31.4000mm    14.7500mm    90       "TDK - C2012X7R1H104K085AA - SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0805 [2012 Metric], ± 10%, X7R, C Series"                  
+C5         C2012X7R1H104K085AA  TopLayer C0805          22.7000mm    18.5500mm    90       "TDK - C2012X7R1H104K085AA - SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0805 [2012 Metric], ± 10%, X7R, C Series"                  
+C4         C2012X7R1H104K085AA  TopLayer C0805          49.8000mm    18.8500mm    270      "TDK - C2012X7R1H104K085AA - SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0805 [2012 Metric], ± 10%, X7R, C Series"                  
+C3         CC0805KKX5R7BB475    TopLayer C0805          51.4500mm    23.3000mm    180      "CAP CER 4.7UF 16V X5R 0805"                                                                                                            
+C2         C2012X7R1H104K085AA  TopLayer C0805          8.9000mm     2.4500mm     270      "TDK - C2012X7R1H104K085AA - SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0805 [2012 Metric], ± 10%, X7R, C Series"                  
+C1         C2012X7R1H104K085AA  TopLayer C0805          21.8500mm    7.2000mm     180      "TDK - C2012X7R1H104K085AA - SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0805 [2012 Metric], ± 10%, X7R, C Series"                  
